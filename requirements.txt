@@ -3,3 +3,4 @@ jupyterlab
 geopandas
 pandas
 plotly
+requests_cache
