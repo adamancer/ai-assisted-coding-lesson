@@ -1,0 +1,13 @@
+[
+    {
+      "country": "United States",
+      "stateProvince": "New Jersey",
+      "county": "Union",
+      "decimalLatitude": 40.725962,
+      "decimalLongitude": -74.350546,
+      "geodeticDatum": "WGS84",
+      "coordinateUncertaintyInMeters": 120,
+      "georeferenceRemarks": "Locality described as 100 m southwest of the intersection of Hobart Ave and Beacon Rd. Intersection georeferenced first, then offset 100 m at bearing 225°. Although the intersection lies in Summit, NJ, it is immediately adjacent to Springfield Township, Union County.",
+      "sourceURL": "https://www.bing.com/maps?cp=40.726597~-74.349708&lvl=17"
+    }
+]
