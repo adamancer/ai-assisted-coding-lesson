@@ -1,0 +1,20 @@
+name: py-lesson-dev
+channels:
+- conda-forge
+- default
+dependencies:
+- python>=3.12
+- pip
+
+# Lesson packages
+- geopandas
+- ipykernel
+- jupyterlab
+- pandas
+- plotly
+
+# Dev packages
+- black
+- nbconvert
+- jupyterlab-spellchecker
+- requests_cache
